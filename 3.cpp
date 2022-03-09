@@ -1,3 +1,4 @@
+// Find the "Kth" max and min element of an array 
 // BY sorting array using STL and printing the element (K-1).
 // Other ways are by using Max/Min Heap
 // Time Complexity by using both method is O(nlogn)
