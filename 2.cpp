@@ -1,3 +1,4 @@
+// Find the maximum and minimum element in an array
 //Using Divide and Conqueror or Tournament Method
 // Complexity = T(n) = (3n/2) – 2
   
