@@ -1,4 +1,4 @@
-// Problem Statement.
+// Problem Statement. Sort an array of 0 1 & 2.
 // Brute Force Approach = Sorting Algo O(N2) 
 // Lil Optimised Approach = Counting Sort {Counts the number of 0,1,2} O(2N)
 // Optimised Approach using pointers = Low, Mid, High O(N)
